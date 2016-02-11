@@ -1,7 +1,7 @@
 class Mysql56 < Formula
   desc "Open source relational database management system"
   homepage "https://dev.mysql.com/doc/refman/5.6/en/"
-  url "https://cdn.mysql.com/Downloads/MySQL-5.6/mysql-5.6.27.tar.gz"
+  url "https://cdn.mysql.com/Downloads/MySQL-5.6/mysql-5.6.29.tar.gz"
   md5 "d38b72612ae6a89d7c845722f31de7ea"
 
   bottle do
